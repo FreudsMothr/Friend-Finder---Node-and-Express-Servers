@@ -1,6 +1,6 @@
 let faker = require("faker");
 
-// images might be an issue. should change if not resoled by the weekend
+
 let newFriends = [
 
     {
